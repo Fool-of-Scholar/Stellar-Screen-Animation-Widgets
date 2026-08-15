@@ -1,0 +1,6 @@
+{
+  "name": "Stellar Screen FX & Animated Widgets",
+  "description": "Transform your phone screen with trending animated pop-up takeovers, custom animated assets, and personalized live home screen widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
